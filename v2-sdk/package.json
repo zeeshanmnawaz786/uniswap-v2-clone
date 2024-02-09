@@ -22,7 +22,6 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "packageManager": "yarn@1.22.19",
     "@uniswap/v2-core": "^1.0.0",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
